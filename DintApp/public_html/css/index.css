@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01/11/2017, 03:50:17 PM
+    Author     : Caili
+*/
+
+.header {
+	background-image:url("https://static1.squarespace.com/static/56d4ab571bbee0d5a2ecf67f/t/587d6616b8a79b07c433616b/1461954438714/black.001.jpeg");
+	height:70px;
+	width:110%;
+	margin:-10px;
+}
+
+ #img {
+  opacity:0.9;
+  }
+  
+ .parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+.navigation-wrapper.black {
+    background-color: black;
+}
+
